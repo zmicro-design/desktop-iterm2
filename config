@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export DESKTOP_CORE_NAME="iterm2"
+export DESKTOP_CORE_BIN_NAME="$DESKTOP_CORE_NAME"
+export DESKTOP_CORE_VERSION=v3.4.19
+export DESKTOP_CORE_ORG="iterm2"
+
+export DESKTOP_CORE_RELEASE_DOWNLOAD="https://iterm2.com/downloads"
